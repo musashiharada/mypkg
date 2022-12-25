@@ -2,7 +2,7 @@
 
 ![test](https://github.com/musashiharada/mypkg/actions/workflows/test.yml/badge.svg)
 
-ロボットシステム学の練習リポジトリであり、このリポジトリはROS2のパッケージです。
+ロボットシステム学の練習リポジトリであり、このリポジトリはROS2のパッケージである。
 
 ## インストール方法
 ターミナルに下記のように入力する。
