@@ -4,12 +4,6 @@
 
 ロボットシステム学の練習リポジトリであり、このリポジトリはROS2のパッケージである。
 
-## インストール方法
-ターミナルに下記のように入力する。
-```
-$ git clone https://github.com/musashiharada/mypkg.git
-```
-
 ## 機能
 talkerで0から順に整数を数え、listenerでその数えた整数をそのまま出力する。
 
@@ -38,7 +32,7 @@ listenerの方に以下のように出力される。
 ```
 
 またlaunchを使えば、一つの端末で動作確認することができる。
-下記のようにターミナルに入力
+下記のようにターミナルに入力する。
 ```
 $ ros2 launch mypkg  talk_listen.launch.py
 ```
