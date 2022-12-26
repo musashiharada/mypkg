@@ -1,5 +1,5 @@
 #!/bin/bash
-# SPDX-FileCopyrightText:2022 musashiharada
+# SPDX-FileCopyrightText:2022 Musashi Harada
 # SPDX-License-Identifier: BSD-3-Clause
 
  dir=~
